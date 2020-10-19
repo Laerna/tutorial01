@@ -6,7 +6,9 @@ public class Student {
 	int age;
 
 	public Student() {
-		// TODO Auto-generated constructor stub
 	}
 
+	public void setName(String name) {
+		this.name= name;
+	}
 }
